@@ -1,2 +1,2 @@
-# c-cplusplus-university-excercises
- A bunch of excercises i had to do for the course SOftware Engeneering ate the University.
+# HTML5 CSS3
+Site i made in the course HTML5 and CSS3.
